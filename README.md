@@ -1,7 +1,10 @@
 ## 👥 Integrantes
 
 - Abdon Merino Llantoy  
-- Daniel Rivas Castillo  
+- Daniel Rivas Castillo
+Puedes visualizar la presentación del proyecto en el siguiente enlace:
+
+👉 [Ver diapositivas](https://docs.google.com/presentation/d/16vBlCtonDUKC2kVWpjlkOFSURyTK6hgNnqVPFBGFxB8/edit?slide=id.p#slide=id.p)
 # Manual de Instalación en Local del Proyecto
 
 Este manual te guiará paso a paso para crear y configurar el proyecto en tu entorno local, incluyendo la creación del proyecto, la instalación de librerías necesarias y la ejecución de un notebook.
