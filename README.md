@@ -1,6 +1,6 @@
 # Integrantes:
-Abdon Merino Llantoy
-Rivas Castillo Daniel
+Abdon Merino Llantoy.
+Rivas Castillo Daniel.
 # Manual de Instalación en Local del Proyecto
 
 Este manual te guiará paso a paso para crear y configurar el proyecto en tu entorno local, incluyendo la creación del proyecto, la instalación de librerías necesarias y la ejecución de un notebook.
