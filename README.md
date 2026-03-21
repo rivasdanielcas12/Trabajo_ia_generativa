@@ -118,4 +118,3 @@ Si el entorno virtual no se activa correctamente en PowerShell, sigue estos paso
 
 ---
 
-¡Con estos pasos, tu proyecto estará listo para ejecutarse en tu entorno local! Si tienes algún problema o duda durante la instalación, no dudes en pedírmelo.
