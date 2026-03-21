@@ -1,0 +1,47 @@
+# =========================
+# Core Data Sciences
+# =========================
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+python-dotenv
+joblib
+pyodbc
+
+# =========================
+# RAG / NLP
+# =========================
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+sentencepiece
+torch
+rank-bm25
+pypdf
+
+# =========================
+# Evaluation
+# =========================
+evaluate
+rouge-score
+sacrebleu
+
+# =========================
+# Web Scraping
+# =========================
+beautifulsoup4
+requests
+lxml
+
+# =========================
+# Excel Support
+# =========================
+openpyxl
+xlrd
