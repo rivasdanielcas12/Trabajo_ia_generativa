@@ -1,16 +1,10 @@
-# Trabajo IA Generativa
+Manual de Instalación en Local del Proyecto
 
-Este proyecto está relacionado con el uso de **Inteligencia Artificial Generativa** para [describir el propósito y objetivos específicos del proyecto].
+Este manual te guiará paso a paso para crear y configurar el proyecto en tu entorno local, incluyendo la creación del proyecto, la instalación de librerías necesarias y la ejecución de un notebook.
 
-## Requisitos
-
-Asegúrate de tener los siguientes paquetes instalados:
-
-- Python 3.8 o superior
-- [Lista de otras dependencias]
-
-## Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/rivasdanielcas12/Trabajo_ia_generativa.git
+1. Crear el Proyecto
+1.1 Abrir CMD (Símbolo del Sistema)
+Abre el CMD o PowerShell en tu computadora.
+Navega hasta la carpeta donde deseas crear el proyecto.
+Ejecuta el siguiente comando para generar la estructura básica del proyect
+py estructura.py
