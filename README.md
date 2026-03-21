@@ -16,7 +16,7 @@ Este manual te guiará paso a paso para crear y configurar el proyecto en tu ent
    ```bash
    py Crear_Proyecto.py
 
-   En la pantalla Escribe el nombre del projecto: ia_generativa.
-   Luego colocar como se llamara el entorno virtual:env_ia
-   Esperar que termine de armar la carpeta con el proyecto.
+En la pantalla Escribe el nombre del projecto: ia_generativa.
+Luego colocar como se llamara el entorno virtual:env_ia
+Esperar que termine de armar la carpeta con el proyecto.
 ### 2.1 Abrir VISUAL STUDIO CODE
