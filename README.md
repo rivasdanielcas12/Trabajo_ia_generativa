@@ -2,8 +2,8 @@
 
 - Abdon Merino Llantoy  
 - Daniel Rivas Castillo
-Puedes visualizar la presentación del proyecto en el siguiente enlace:
 
+Puedes visualizar la presentación del proyecto en el siguiente enlace:
 👉 [Ver diapositivas](https://docs.google.com/presentation/d/16vBlCtonDUKC2kVWpjlkOFSURyTK6hgNnqVPFBGFxB8/edit?slide=id.p#slide=id.p)
 # Manual de Instalación en Local del Proyecto
 
