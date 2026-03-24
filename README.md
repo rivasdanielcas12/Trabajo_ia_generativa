@@ -124,6 +124,15 @@ Si el entorno virtual no se activa correctamente en PowerShell, sigue estos paso
 
 ---
 
+
+---
+
+## VIDEOS
+
+
+
+
+
 ## VIDEOS DE SEMINARIO  DANIEL RIVAS 
 
 
@@ -132,4 +141,16 @@ Si el entorno virtual no se activa correctamente en PowerShell, sigue estos paso
 
 
 https://github.com/user-attachments/assets/850660e8-e576-4aff-b9aa-c33f24e8f7b4
+
+
+
+
+
+
+---
+
+## VIDEOS DE SEMINARIO  ABDON MERINO
+
+
+
 
