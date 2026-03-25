@@ -132,10 +132,6 @@ Si el entorno virtual no se activa correctamente en PowerShell, sigue estos paso
 
 
 ---
-## SEMIRARIO
-
-
-[Investigation - IA Generativa ABDON .pdf](https://github.com/user-attachments/files/26229407/Investigation.-.IA.Generativa.ABDON.pdf)
 
 
 ## VIDEOS DE SEMINARIO  ABDON MERINO
