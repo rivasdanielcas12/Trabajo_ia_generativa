@@ -156,9 +156,7 @@ https://github.com/user-attachments/assets/850660e8-e576-4aff-b9aa-c33f24e8f7b4
 
 
 
----
 
-## VIDEOS DE SEMINARIO  ABDON MERINO
 
 
 
